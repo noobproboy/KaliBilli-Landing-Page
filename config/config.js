@@ -9,13 +9,13 @@
 
 const CONFIG = {
   // Bot invite link - users will be redirected here when clicking "Invite Kali Billi"
-  botInviteUrl: "https://discord.com/oauth2/authorize?client_id=1457700323199291436&scope=applications.commands%20bot&permissions=8",
+  botInviteUrl: "https://discord.com/oauth2/authorize?client_id=1449371953721905172&permissions=8&integration_type=0&scope=bot",
   
   // Support server invite link - users will be redirected here for support
-  supportServerUrl: "https://discord.gg/veluxmc",
+  supportServerUrl: "https://discord.gg/zVRpuZzc2",
   
   // Bot name (for display)
-  botName: "Black Cat",
+  botName: "Arrkii",
   
   // Bot description
   botDescription: "Your Cute Discord Companion - Fun, moderation, and AI chat for your Discord server."
